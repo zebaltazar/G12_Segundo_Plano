@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">G12 Segundo Plano</string>
+
+    <string name="titulo">Analisador de texto em segundo plano</string>
+    <string name="hint_texto">Texto a analisar (vazio = texto de exemplo)</string>
+    <string name="btn_agora">1. Processar agora (OneTime)</string>
+    <string name="btn_condicionado">2. Agendar com restrições (+10 s)</string>
+    <string name="cb_carregar">Só quando estiver a carregar</string>
+    <string name="btn_periodico">3. Ativar tarefa periódica (15 min)</string>
+    <string name="btn_alarme">4. Alarme (AlarmManager) em 30 s</string>
+    <string name="btn_cancelar">Cancelar todas as tarefas</string>
+    <string name="lbl_estado">Tarefas ativas (WorkManager):</string>
+    <string name="lbl_resultado">Último resultado:</string>
+    <string name="estado_sem_tarefas">Sem tarefas ativas.</string>
+    <string name="resultado_vazio">(ainda sem resultado)</string>
+
+    <string name="toast_agendado">Tarefa agendada.</string>
+    <string name="toast_alarme">Alarme agendado para daqui a 30 s.</string>
+    <string name="toast_cancelado">Tarefas canceladas.</string>
+    <string name="toast_perm_ok">Notificações permitidas.</string>
+    <string name="toast_perm_negada">Notificações negadas: a tarefa corre, mas sem aviso.</string>
+
+    <string name="canal_resultados_nome">Resultados do processamento</string>
+    <string name="canal_resultados_desc">Avisa quando uma análise em segundo plano termina.</string>
+    <string name="canal_alarmes_nome">Alarmes</string>
+    <string name="canal_alarmes_desc">Avisos disparados pelo AlarmManager.</string>
+    <string name="notif_titulo_concluido">Processamento concluído</string>
+    <string name="notif_acao_repetir">Repetir</string>
+    <string name="notif_titulo_alarme">Alarme disparado</string>
+    <string name="notif_texto_alarme">O AlarmManager acordou a app (alarme inexato).</string>
+</resources>

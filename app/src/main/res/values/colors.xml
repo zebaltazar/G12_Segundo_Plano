@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Modern Dark Mode Colors -->
+    <color name="md_theme_dark_primary">#AEC6FF</color>
+    <color name="md_theme_dark_onPrimary">#002E69</color>
+    <color name="md_theme_dark_primaryContainer">#194482</color>
+    <color name="md_theme_dark_onPrimaryContainer">#D7E2FF</color>
+
+    <color name="md_theme_dark_secondary">#4FD8EB</color>
+    <color name="md_theme_dark_onSecondary">#00363D</color>
+    <color name="md_theme_dark_secondaryContainer">#004F58</color>
+    <color name="md_theme_dark_onSecondaryContainer">#97F0FF</color>
+
+    <color name="md_theme_dark_background">#1A1C1E</color>
+    <color name="md_theme_dark_onBackground">#E2E2E6</color>
+    <color name="md_theme_dark_surface">#1A1C1E</color>
+    <color name="md_theme_dark_onSurface">#E2E2E6</color>
+
+    <!-- Custom card color -->
+    <color name="surface_variant">#2A2D31</color>
+</resources>
